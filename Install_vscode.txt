@@ -1,0 +1,21 @@
+To install Visual Studio Code (VS Code) on your computer, follow these steps:
+
+1. Visit the official VS Code website: Go to https://code.visualstudio.com in your web browser.
+
+2. Download the installer: Click on the "Download for [your operating system]" button. VS Code supports Windows, macOS, and Linux.
+
+3. Run the installer: Once the installer is downloaded, run it by double-clicking the downloaded file. Follow the instructions provided by the installer.
+
+   - Windows: Run the .exe file and follow the installation wizard.
+   - macOS: Open the .dmg file and drag the VS Code icon to the Applications folder.
+   - Linux: Run the appropriate command for your distribution. For example, on Ubuntu, you can use the command `sudo dpkg -i <file>.deb` to install the .deb package.
+
+4. Launch VS Code: After the installation is complete, you can launch VS Code. The process varies depending on your operating system.
+
+   - Windows: Look for the VS Code shortcut on your desktop or in the Start menu.
+   - macOS: Open Launchpad and search for "Visual Studio Code," or use Spotlight search.
+   - Linux: Use your application launcher or run `code` in the terminal.
+
+5. Set up VS Code (optional): Upon launching VS Code for the first time, you might be prompted to install the recommended extensions. You can choose to install them or skip this step. You can always install or manage extensions later by accessing the Extensions view in VS Code.
+
+That's it! You have successfully installed VS Code on your computer. You can now start using it as a powerful code editor and customize it according to your needs.
